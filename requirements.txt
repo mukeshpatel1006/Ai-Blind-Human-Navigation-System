@@ -1,0 +1,10 @@
+opencv-python
+numpy
+SpeechRecognition
+pywin32
+ultralytics
+torch
+torchaudio
+torchvision
+pyaudio
+vosk
